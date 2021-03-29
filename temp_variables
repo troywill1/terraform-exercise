@@ -1,0 +1,5 @@
+# This file contains saved variable names to be used in the Terraform Exercise
+
+storage_account_name: tstate12426
+container_name: tstate
+access_key: b7tL/6XyI5InTcX6R7+j96E8sOyzHbeuv1eoxuIzx9iHLU3HYe6dljW+9JM3XPZGpWzwvxczR1LikRkwqfm3uA==
